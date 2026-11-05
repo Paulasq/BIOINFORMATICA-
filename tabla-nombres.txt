@@ -1,0 +1,3 @@
+Nombre	Apellidos	Edad	Mascota
+Nombre	Apellidos	Edad	Mascota
+Lola	Suarez	21	Bruno
